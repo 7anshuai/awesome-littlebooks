@@ -17,6 +17,12 @@ The good news is that you’re hearing (and thinking) about the right things. No
 
 ## Languages
 
+### [A Byte of Python](https://python.swaroopch.com/) *Free*
+<img src="https://img3.doubanio.com/lpic/s4612135.jpg" width="180">
+
+"A Byte of Python" is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.
+
+
 ### [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/) *Free*
 ![](http://arcturo.github.io/library/coffeescript/site/covers.gif)
 

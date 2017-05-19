@@ -6,7 +6,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## 平台
 
-### [什么是 Node？](http://jayli.github.io/whatisnode/)
+### [什么是 Node？](http://jayli.github.io/whatisnode/)  *免费*
 ![](http://akamaicovers.oreilly.com/images/0636920021506/cat.gif)
 
 *Node 不是万能药！但的确能解决一些关键问题。*
@@ -15,18 +15,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## 编程语言
 
+### [简明 Python 教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/index.html) *免费*
+<img src="https://img3.doubanio.com/lpic/s4612135.jpg" width="180">
+
 ### [ CoffeeScript 小书](https://read.douban.com/ebook/198648/)
+![](https://img1.doubanio.com/view/ark_article_cover/retina/public/198648.jpg?v=1395393782.0)
+
+The Little Book on CoffeeScript 中文版
 
 ### [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) *免费*
+<img src="http://openmymind.net/assets/go/title.png" width="245">
 
-### [JavaScript Promise 迷你书](https://github.com/liubin/promises-book/)
+### [JavaScript Promise 迷你书](https://github.com/liubin/promises-book/) *免费*
 
 
 ## 数据库
 
 ### [MongoDB 小书](https://github.com/ilivebox/the-little-mongodb-book/tree/master/zh-cn) *免费*
+<img src="http://openmymind.net/mongodb_cover.png" width="245">
 
 ### [Redis 小书](https://github.com/ilivebox/the-little-redis-book/tree/master/zh-cn) *免费*
+<img src="http://openmymind.net/redis_cover.png" width="245">
 
 ## 前端开发
 
