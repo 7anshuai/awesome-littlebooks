@@ -4,6 +4,15 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## 平台
+
+### [什么是 Node？](http://jayli.github.io/whatisnode/)
+![](http://akamaicovers.oreilly.com/images/0636920021506/cat.gif)
+
+*Node 不是万能药！但的确能解决一些关键问题。*
+
+学习 Node 不是一件轻松事儿，但你所收到的回报是对得起你的付出的。因为当下 Web 应用开发中的诸多难题唯有 JavaScript 才能解决。
+
 ## 编程语言
 
 ### [ CoffeeScript 小书](https://read.douban.com/ebook/198648/)
