@@ -32,6 +32,10 @@ The good news is that you’re hearing (and thinking) about the right things. No
 
 The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
 
+### [Mixu's Node book](http://book.mixu.net/node/) *Free*
+
+Node.js patterns and core libraries, JS gotchas, control flow and Socket.io.
+
 ## Databases
 
 ### [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/) *Free*
@@ -39,3 +43,19 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 ### [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) *Free*
 <img src="http://openmymind.net/redis_cover.png" width="245">
+
+## Back-end Developments
+
+### [Distributed systems: for fun and profit](http://book.mixu.net/distsys/) *Free*
+
+An introduction to distributed systems.
+
+## Front-end Developments
+
+### [Learn CSS Layout the pedantic way](http://book.mixu.net/css/) *Free*
+
+Walks you through every major concept in CSS layout, without trying to simplify away the underlying mechanisms described in the CSS 2.1 and flexbox specs.
+
+### [Single page apps in depth](http://singlepageappbook.com/) *Free*
+
+Single page web apps and good practices around writing single page apps.
