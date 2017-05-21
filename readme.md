@@ -59,3 +59,9 @@ Walks you through every major concept in CSS layout, without trying to simplify 
 ### [Single page apps in depth](http://singlepageappbook.com/) *Free*
 
 Single page web apps and good practices around writing single page apps.
+
+## Miscellaneous
+
+### [Rest CookBook](http://restcookbook.com/) *Free*
+
+How to do stuff RESTful

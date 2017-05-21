@@ -1,8 +1,8 @@
-# Awesome 小书
+# 了不起的小书
 
-> A curated list of the little books.
+> 了不起的小书列表。
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列表。
 
 ## 平台
 
@@ -26,6 +26,8 @@ The Little Book on CoffeeScript 中文版
 ### [Go 简易教程](https://github.com/songleo/the-little-go-book_ZH_CN) *免费*
 <img src="http://openmymind.net/assets/go/title.png" width="245">
 
+The Little Go Book 中文版
+
 ### [JavaScript Promise 迷你书](https://github.com/liubin/promises-book/) *免费*
 
 
@@ -46,3 +48,9 @@ The Little Book on CoffeeScript 中文版
 ### [React Native 小书](https://github.com/Elvenisboy/RNBook) *免费*
 
 《React Native小书》是一本关于 React Native 的入门向的开源书籍，希望这本书可以帮助更多的人学会 React Native 并能够开发自己的 App。
+
+## 其他
+
+### [RESTful 手册](http://sofish.github.io/restcookbook/) *免费*
+
+如何把东西变得 RESTful
