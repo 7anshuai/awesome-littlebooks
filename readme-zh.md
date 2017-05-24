@@ -13,6 +13,14 @@
 
 学习 Node 不是一件轻松事儿，但你所收到的回报是对得起你的付出的。因为当下 Web 应用开发中的诸多难题唯有 JavaScript 才能解决。
 
+### [理解 Linux 进程](https://github.com/tobegit3hub/understand_linux_process) *免费*
+
+<img src="https://github.com/tobegit3hub/understand_linux_process/blob/master/cover_small.jpg?raw=true" width="180">
+
+受[理解 Unix 进程](http://www.duokan.com/book/41446)启发而作，用极简的篇幅深入学习进程知识。
+
+**理解 Linux 进程**用 Go 重写了所有示例程序，通过循序渐进的方法介绍 Linux 进程的工作原理和一切你所需要知道的概念。
+
 ## 编程语言
 
 ### [简明 Python 教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/index.html) *免费*
