@@ -36,6 +36,17 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 Node.js patterns and core libraries, JS gotchas, control flow and Socket.io.
 
+### [Mr. Neighborly's Humble Little Ruby Book](http://humblelittlerubybook.com/book/html/index.html) *Free*
+
+<img src="https://www.infoq.com/resource/minibooks/ruby/en/cover/RubyBook.jpg" width="180">
+
+Ruby has taken the programming world by storm.  With the slow decline of Java and the catalyst of Rails, it has risen to become one of the most popular programming languages, rising to #10 on the TIOBE index and winning their "Programming Language of the Year" award.
+
+**Mr. Neighborly's Humble Little Ruby Book** is a book about this fine language, but it is not a language book per se.  It is perhaps best described as a mix between your favorite novel, your favorite Spanish textbook, and a Richard Simmons exercise video: it walks you through the very basics of working with Ruby, but by the end of it, you'll no doubt be
+sweatin' it to the oldies.   It covers the base syntax of the language, including working with values, flow control, and object oriented programming, into some of the library functionality of Ruby, such as databases, web services, and string manipulation.
+
+Expect this book to rock your world.  Or at least teach you a programming language.
+
 ## Databases
 
 ### [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/) *Free*
