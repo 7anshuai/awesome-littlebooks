@@ -19,6 +19,10 @@ The good news is that you’re hearing (and thinking) about the right things. No
 
 Node.js patterns and core libraries, JS gotchas, control flow and Socket.io.
 
+### [The Little Book of Semaphores](http://greenteapress.com/wp/semaphores/) *Free*
+
+Learn about software synchronization by solving a series of puzzles.
+
 ## Languages
 
 ### [A Byte of Python](https://python.swaroopch.com/) *Free*

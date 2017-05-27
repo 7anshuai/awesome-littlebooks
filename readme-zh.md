@@ -27,7 +27,8 @@
 <img src="https://img3.doubanio.com/lpic/s4612135.jpg" width="180">
 
 ### [ CoffeeScript 小书](https://read.douban.com/ebook/198648/)
-![](https://img1.doubanio.com/view/ark_article_cover/retina/public/198648.jpg?v=1395393782.0)
+
+<img src="https://img1.doubanio.com/view/ark_article_cover/retina/public/198648.jpg?v=1395393782.0" width="180">
 
 The Little Book on CoffeeScript 中文版
 
@@ -44,8 +45,12 @@ The Little Go Book 中文版
 ### [MongoDB 小书](https://github.com/ilivebox/the-little-mongodb-book/tree/master/zh-cn) *免费*
 <img src="http://openmymind.net/mongodb_cover.png" width="245">
 
+The Little MongoDB Book 中文版
+
 ### [Redis 小书](https://github.com/ilivebox/the-little-redis-book/tree/master/zh-cn) *免费*
 <img src="http://openmymind.net/redis_cover.png" width="245">
+
+The Little Redis Book 中文版
 
 ## 前端开发
 
